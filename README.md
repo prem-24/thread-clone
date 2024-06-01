@@ -73,9 +73,6 @@ For authentication and accessing protected routes:
 - `POST /comments/:postId`: Create a new comment on a post by ID
 - `DELETE /comments/:id`: Delete a comment by ID
 
-## Contributors
-- [Mrsingh-rishi](https://github.com/mrsingh-rishi)
-- [786Ayush](https://github.com/786Ayush)
 
 ## Contact Information
 For questions, support, or feedback, reach out to the maintainers:
