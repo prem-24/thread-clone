@@ -4,7 +4,7 @@
 Threads Clone is a social media platform aiming to replicate features for user interaction, including posts, comments, and following functionalities.
 
 ## Backend URL
-The base URL for the backend API: `http://localhost:8080/`
+The base URL for the backend API: `http://localhost:8000/`
 
 ## Demo
 
