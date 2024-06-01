@@ -74,7 +74,3 @@ For authentication and accessing protected routes:
 - `DELETE /comments/:id`: Delete a comment by ID
 
 
-## Contact Information
-For questions, support, or feedback, reach out to the maintainers:
-- [Rishi Singh](rs3949472@gmail.com)
-- [Ayush Gupta](guptaayush617@gmail.com)
